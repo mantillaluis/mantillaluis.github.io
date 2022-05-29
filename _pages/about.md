@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.ubc.ca'>UBC</a>. 
+subtitle: MSc student in Physics @ <a href='https://www.ubc.ca'>UBC</a>. 
 
 profile:
   align: right
@@ -17,6 +17,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+# About me
 
 My name is Luis Carlos Mantilla Calderon. I am a physicist and matematician 
 interested in quantum computing, particularly, in quantum machine learning
@@ -24,15 +25,16 @@ and quantum error correction. I also have interests in reinforcement learning
 and optimization. 
 
 Currently, I am a MSc student in Physics at 
-[The University of British Columbia](https://www.ubc.ca),.
+[The University of British Columbia](https://www.ubc.ca).
   I am working in Prof. Robert Raussendorf's Quantum Information group exploring 
   quantum machine learning algorithms in the MBQC framework. 
 
-# About me
+# Background
 
-I was born in Barcelona, Spain (1999) and was raised in Floridablanca, 
-Colombia. I did my undergraduate in physics and mathematics (2016-2021) at 
+- Born in Barcelona, Spain (1999) 
+- Raised in Floridablanca, Colombia. 
+- Went to La Quinta del Puente School in Floridablanca (2000-2016).
+- Did my undergraduate in physics and mathematics (2016-2021) at 
 [Universidad de los Andes](https://uniandes.edu.co), Bogota. 
-I worked in quantum error correction and deep reinforcement learning for my 
-physics and mathematics program, respectively. I started my master degree in physics (2021-Preset) at the 
+- Started my master degree in physics (2021-Preset) at the 
 [University of British Columbia](https://www.ubc.ca), Vancouver.
