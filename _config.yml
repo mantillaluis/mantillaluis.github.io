@@ -4,17 +4,17 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Luis
-middle_name: Carlos
-last_name: Mantilla Calderon
+middle_name: 
+last_name: Mantilla
 email: luismantilla1999@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  sss
+  
 footer_text: >
   Luis Mantilla Calderon
 keywords: # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: favicon.ico  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://mantillaluis.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
@@ -27,7 +27,7 @@ impressum_path:  # set to path to include impressum link in the footer, use the 
 # will use title and url fields
 # Take a look to https://github.com/jekyll/jekyll-feed for more customization
 
-rss_icon: true
+rss_icon: false
 
 # -----------------------------------------------------------------------------
 # Layout
@@ -71,7 +71,7 @@ dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  If you want to reach out, feel free to send me an email or twitter DM!
 
 google_analytics:  # your google-analytics ID (format: UA-XXXXXXXXX)
 google_site_verification:  # your google-site-verification ID (Google Search Console)
@@ -82,9 +82,9 @@ panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
-blog_description: a simple whitespace theme for academics
+blog_name: "" # blog_name will be displayed in your blog page
+# blog_nav_title:  # your blog must have a title for it to be displayed in the nav bar
+blog_description: ""
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -92,15 +92,15 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: "mantillaluis" # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
 # If you have blog posts published on medium.com or other exteranl sources,
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
-  - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
+  # - name: medium.com
+  #   rss_url: 
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -273,7 +273,6 @@ enable_navbar_social:       false  # enables displaying social links in the
 enable_project_categories:  true   # enables categorization of projects into
                                    # multiple categories
 enable_medium_zoom:         true   # enables image zoom feature (as on medium.com)
-
 
 # -----------------------------------------------------------------------------
 # Library versions
