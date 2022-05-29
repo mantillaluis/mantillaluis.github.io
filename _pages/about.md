@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: MSc student in Physics @ <a href='https://www.ubc.ca'>UBC</a>. 
+subtitle: Physics and mathematics. 
 
 profile:
   align: right
@@ -31,10 +31,10 @@ Currently, I am a MSc student in Physics at
 
 # Background
 
-- Born in Barcelona, Spain (1999) 
+- Born in Barcelona, Spain (1999).
 - Raised in Floridablanca, Colombia. 
 - Went to La Quinta del Puente School in Floridablanca (2000-2016).
-- Did my undergraduate in physics and mathematics (2016-2021) at 
-[Universidad de los Andes](https://uniandes.edu.co), Bogota. 
-- Started my master degree in physics (2021-Preset) at the 
-[University of British Columbia](https://www.ubc.ca), Vancouver.
+- Studied physics and mathematics at 
+[Universidad de los Andes](https://uniandes.edu.co), Bogota (2016-2021). 
+- Began a master program in physics at the 
+[University of British Columbia](https://www.ubc.ca), Vancouver (2021-Preset).
