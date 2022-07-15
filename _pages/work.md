@@ -13,7 +13,7 @@ and Prof. Robert Raussendorf on implementing a quantum recurrent neural network 
 processing of quantum data.
 
 - **Summer Research Intern @ Xanadu, 2022**
-    - Developing [FlamingPy](https://github.com/XanaduAI/flamingpy)
+    - Working on quantum error correction. Developing [FlamingPy](https://github.com/XanaduAI/flamingpy)
 
 ### Previous work
 
